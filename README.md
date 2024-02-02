@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning html, css, javascript, and react
 
 # Skills:
-Languages: HTML5, CSS3, JavaScript
-Frameworks: React
-Tools: VS Code, MS Office
+- Languages: HTML5, CSS3, JavaScript
+- Frameworks: React
+- Tools: VS Code, MS Office
 
 <!---
 marjoriecortez/marjoriecortez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
