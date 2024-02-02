@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marjorie R. Cortez
-- 🎓 I am a graduate of Electronics Engineering
+- 🎓 I am an Electronics Engineering graduate
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning html, css, javascript, and react
 
