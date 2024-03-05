@@ -5,7 +5,7 @@
 
 ## Skills:
 - Languages: HTML5, CSS3, JavaScript
-- Frameworks: React
+- Frameworks/Libraries: Bootstrap, SCSS, jQuery, and React
 - Tools: VS Code, MS Office
 
 <!---
