@@ -6,7 +6,7 @@
 ## Skills:
 - Languages: HTML5, CSS3, JavaScript
 - Frameworks/Libraries: Bootstrap, SCSS, jQuery, and React
-- Tools: VS Code, MS Office
+- Tools: VS Code, MS Office, Git
 
 <!---
 marjoriecortez/marjoriecortez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
