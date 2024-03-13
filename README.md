@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning html, css, javascript, and react
 
 ## Skills:
-- Languages: HTML5, CSS3, JavaScript, Java
+- Languages: HTML5, CSS3, JavaScript
 - Frameworks/Libraries: Bootstrap, SCSS, jQuery, and React
 - Tools: VS Code, MS Office, Git
 
