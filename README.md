@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Marjorie R. Cortez
 - 🎓 I am an Electronics Engineering graduate
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning html, css, javascript, and react
+- 🌱 I’m currently learning front-end web developement
 
 ## Skills:
 - Languages: HTML5, CSS3, JavaScript
